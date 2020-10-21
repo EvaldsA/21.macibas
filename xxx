@@ -1,0 +1,75 @@
+//alert(Hello)
+
+// var main mainigaVards;
+
+//let mainigaVards2;
+//let cipars = 7.87;
+//let telsts = 'hello'
+let = tekstsVairakasRindas = `
+1rinda
+2rinda
+`;
+
+                                                    Const mainigaVards3;
+
+
+//console.log(cipars)
+
+let boolean = false;
+
+    let masivs = ['Anna' , 'Jānis', 'Līga']
+
+    console.log(masivs[1]);
+    
+
+mainigo datu tips objekts
+let object = {
+
+    name: "Jānis",
+    vecums: 30,
+    "patīk datori": true
+}
+
+let json = [{
+name: "Janna"
+age: 27,
+"like": false
+},{
+    name: "John"
+    age: 37,
+    "like": false
+}]
+
+console.log( json[0]['name']);
+
+
+
+count vardi = []
+count balvas = []
+
+count naudaKopa = 1000000;
+
+let uzvaretajuSkaits = 3;
+
+let rindas = document.querySelector('#rindas');
+rindas.innerHTML += `
+<tr>
+<tr>i</tr>
+<tr>
+</tr>
+
+`;
+
+
+
+Math.random() * 10;
+
+
+
+for (let i=0; i < uzvaretajuSkaits; i++)
+{
+let rand = math.random() * vardi.length;
+rand = math.floor( rand);
+
+console.log( vardi [rand] );
+}
